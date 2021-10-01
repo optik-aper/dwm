@@ -1,0 +1,5 @@
+*.swp
+config.h
+dwm
+dwm.*
+*.o
